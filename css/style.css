@@ -440,14 +440,6 @@ img {
 	vertical-align: middle;
 }
 
-.edit__button:focus {
-	background-color: #b1b1b1;
-}
-
-.edit__button:focus:before {
-	background-image: url("../img/cansel.svg");
-}
-
 .management-table {
 	max-width: 1001px;
 	padding: 0 30px;
